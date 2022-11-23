@@ -8,7 +8,7 @@ environment {
     )
 }
 tools {
-   tools {nodejs "node"}
+   nodejs "node"
 }
 stages {
   stage('Build project') {
